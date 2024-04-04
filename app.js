@@ -1,7 +1,7 @@
 const $ = document.querySelector.bind(document)
 const $$ = document.querySelectorAll.bind(document)
 
-const PLAYER_STORAGE_KEY = 'ALBERT'
+const PLAYER_STORAGE_KEY = 'MEMORY-STORAGE'
 
 const player = $('.player')
 const cd = $('.cd')
